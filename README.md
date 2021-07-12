@@ -1,5 +1,4 @@
 # specifica-verifica-sistemi-software
-Progetto realizzato per l'esame di "Specifica e verifica dei sistemi software"
 
 This repository contains the assignment of the course "FORMAL SPECIFICATION AND VERIFICATION SOFTWARE SYSTEMS" provided by Università di Parma. 
 
